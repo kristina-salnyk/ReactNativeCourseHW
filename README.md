@@ -43,6 +43,10 @@ To run this project, you will need to add the following environment variables to
 
 Now that you have the project and its dependencies installed, you can start the app:
 
+```bash
+  npm start
+```
+
 ### iOS
 
 1. To run the app on an iOS simulator, make sure you have Xcode installed on your macOS machine.
